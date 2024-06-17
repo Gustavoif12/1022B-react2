@@ -11,3 +11,5 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <Footer></Footer>
   </React.StrictMode>,
 )
+
+//Componente é uma função que retorna TSX (mistura de html + javaspript)
